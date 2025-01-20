@@ -1,4 +1,6 @@
-# :computer:	MyHealth-MyWealth
+# :computer:	WellNexus 
+                  – Your hub for wellness.
+
 A project designed to assess and guide users on their health using BMI calculations and personalized solutions
 
 ## FEAUTRES
