@@ -6,7 +6,7 @@ e.insert(0,"Name:")
 
 # Layout
 def h_h():
-    myLabel2=Label(window,text="Welcome to Health Wealth "+e.get())
+    myLabel2=Label(window,text="Welcome to WellNexus "+e.get())
     myLabel2.pack()
 
 myLabel=Label(window,text="HEALTH IS WEALTH")
