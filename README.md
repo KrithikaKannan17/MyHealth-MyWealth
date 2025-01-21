@@ -3,7 +3,7 @@
 
 A project designed to assess and guide users on their health using BMI calculations and personalized solutions
 
-## FEAUTRES
+## FEATURES
 
 :diamonds:	BMI calculation based on user input.
 
