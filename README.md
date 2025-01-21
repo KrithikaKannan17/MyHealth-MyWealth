@@ -49,7 +49,7 @@ The application workflow is represented by the following:
 
 :orange_square:	 Feedback Collection: Captures user feedback for further improvements.
 
-## Limitations
+## LIMITATIONS
 
 1. Simplistic calorie evaluation.
    
